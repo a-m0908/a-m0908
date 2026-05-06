@@ -1,12 +1,12 @@
 # Motoya Aono
 
-Mathematical Engineering and Information Physics student at the University of Tokyo.
+Bachelor's student in Mathematical Engineering and Information Physics at the University of Tokyo
 
 Interested in:
 - Quantitative Finance
-- Numerical Methods
 - Machine Learning
 - Algorithmic Trading
+- stochastic processes
 
 ## Tech Stack
 - Python
