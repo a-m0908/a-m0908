@@ -1,16 +1,23 @@
-## Hi there 👋
+# Motoya Aono
 
-<!--
-**a-m0908/a-m0908** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Mathematical Engineering and Information Physics student at the University of Tokyo.
 
-Here are some ideas to get you started:
+Interested in:
+- Quantitative Finance
+- Numerical Methods
+- Machine Learning
+- Algorithmic Trading
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+- Python
+- C++
+- Go
+- SQL
+- R
+- MATLAB
+
+## Current Projects
+- Numerical linear algebra implementations
+- Derivatives pricing models
+- Market microstructure analysis
+- LLM-based systems
