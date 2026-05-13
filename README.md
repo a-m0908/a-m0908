@@ -1,9 +1,7 @@
 # Motoya Aono
 
-Undergraduate student in Mathematical Engineering & Information Physics at the University of Tokyo.
-
+Undergraduate student in Mathematical Engineering and Information Physics at the University of Tokyo.
 Interested in quantitative finance, machine learning, optimization, and AI systems.
-
 Currently building projects related to quantitative research, financial data analysis, trading systems, and AI-driven applications.
 
 ---
@@ -12,8 +10,6 @@ Currently building projects related to quantitative research, financial data ana
 
 - Mathematical Engineering & Information Physics @ UTokyo
 - Interested in quantitative research and systematic trading
-- Building AI systems using Python, Go, and LLM-based architectures
-- Strong interest in stochastic processes, optimization, and statistical modeling
 
 ---
 
@@ -24,42 +20,18 @@ Currently building projects related to quantitative research, financial data ana
 - Statistical Modeling
 - Optimization
 - Systematic Trading
-- Backend Engineering
-
+  
 ---
 
 ## Tech Stack
 
-Python · Go · C++ · SQL  
-PyTorch · pandas · NumPy · scikit-learn
-
----
-
-## Current Focus
-
-- Statistical arbitrage
-- Market microstructure
-- Volatility modeling
-- Stochastic processes
-- Financial data analysis
-
----
-
-## Projects
-
-- Quantitative trading research
-- Financial data pipelines
-- LLM-based applications
-- Optimization and simulation tools
+Python · C++ · PyTorch
 
 ---
 
 ## Contact
 
-LinkedIn: [your-link]  
-X / Twitter: [your-link]  
-Email: [your-email]
+LinkedIn: [www.linkedin.com/in/motoya-aono-029180390]   
+Email: [motoya1598@gmail.com]
 
 ---
-
-> Build systems you can explain from first principles.
